@@ -142,6 +142,6 @@ export const SkillsInfo = [
       image: portfolio,
       tags: ["React JS", "Tailwind Css", "JavaScript"],
       github: "https://github.com/AshishJivan/Portfolio-Website",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      webapp: "https://ashishchuahan.vercel.app/",
     },
   ];  
