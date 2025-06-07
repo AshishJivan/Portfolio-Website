@@ -18,7 +18,7 @@ import saltoris from './assets/tech_logo/saltoris.png'
 import blockchain from './assets/tech_logo/blockchain.png'
 import ecommerce from './assets/tech_logo/Ecommerce.png'
 import portfolio from './assets/tech_logo/portfolio.png'
-import aktuLogo from './assets/tech_logo/aktuLogo.png'
+import aktuLogo from './assets/tech_logo/AktuLogo.png'
 import xschool from './assets/tech_logo/xschool.png'
 import xiischool from './assets/tech_logo/xiischool.png'
 
@@ -141,7 +141,7 @@ export const SkillsInfo = [
         "For this project, I utilized ReactJS and CSS to design and develop a responsive and visually appealing user interface for my portfolio. My portfolio is designed to showcase my skills, projects, and blogs in a structured and engaging manner. I deployed this project on Vercel using GitHub, making it accessible to everyone.",
       image: portfolio,
       tags: ["React JS", "Tailwind Css", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
+      github: "https://github.com/AshishJivan/Portfolio-Website",
       webapp: "https://movie-recommendation-app-jet.vercel.app/",
     },
   ];  
